@@ -1,7 +1,5 @@
 # Python-EcoWave
 
-# React + Vite
-
 <div align="center">
   <h1>EcoWave</h1>
 </div>
